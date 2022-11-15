@@ -14,7 +14,7 @@ import java.util.Objects;
 import java.util.function.BooleanSupplier;
 import java.util.stream.Collectors;
 
-import javax.inject.Singleton;
+import jakarta.inject.Singleton;
 
 import org.jboss.jandex.ClassInfo;
 import org.jboss.jandex.DotName;
